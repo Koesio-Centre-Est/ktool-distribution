@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "{8d3c1f52-6b7e-4f0a-9c2d-3e5a7b9f1c40}": {
+      "updates": [
+        {
+          "version": "2.0.0.2",
+          "update_link": "https://github.com/Koesio-Centre-Est/ktool-distribution/releases/download/lite-v2.0.0.2/ktool-lite-firefox-v2.0.0.2.xpi"
+        }
+      ]
+    }
+  }
+}
