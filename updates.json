@@ -37,6 +37,10 @@
         {
           "version": "2.0.0.2",
           "update_link": "https://github.com/Koesio-Centre-Est/ktool-distribution/releases/download/v2.0.0.2/ktool-firefox-v2.0.0.2.xpi"
+        },
+        {
+          "version": "2.1.0.0",
+          "update_link": "https://github.com/Koesio-Centre-Est/ktool-distribution/releases/download/v2.1.0.0/ktool-firefox-v2.1.0.0.xpi"
         }
       ]
     }
